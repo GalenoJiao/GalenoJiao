@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GalenoJiao
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python,html
+- 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on nothing
 - 📫 Reach me on wechat
 
